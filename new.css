@@ -1,0 +1,34 @@
+p{
+	color:white;
+	font: italic bold 28px helvetica ;
+	margin:20px ;
+	background-color:black;
+	
+	
+}
+
+body{
+	background-image:url('roht4.jpg');
+	background-size:cover;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+/* visited link */
+a:visited {
+  color: white;
+}
+
+/* mouse over link */
+a:hover {
+  color:black;
+}
+
+a:hover {
+  background-color: white;
+}
+
